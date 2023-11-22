@@ -2,7 +2,6 @@
 #!pip install "openai<1.0.0"
 # import streamlit as st
 # import openai
-%%writefile app.py
 
 import streamlit as st
 import openai
